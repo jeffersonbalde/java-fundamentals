@@ -4,13 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e24d0168-121c-4283-96a0-84a9b09c9108" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/arguments_parameters/Smartphone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/arguments_parameters/SmartphoneMain.java" afterDir="false" />
+    <list default="true" id="e24d0168-121c-4283-96a0-84a9b09c9108" name="Changes" comment="adding basics">
+      <change afterPath="$PROJECT_DIR$/src/main/java/decision_structure/SalaryCalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arguments_parameters/Smartphone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arguments_parameters/SmartphoneMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/basics/GrossPayCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basics/GrossPayCalculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +22,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -53,6 +55,14 @@
       <option name="presentableId" value="Default" />
       <updated>1682516975400</updated>
     </task>
+    <task id="LOCAL-00001" summary="adding basics">
+      <created>1682517818800</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682517818801</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -65,5 +75,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="adding basics" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding basics" />
   </component>
 </project>
