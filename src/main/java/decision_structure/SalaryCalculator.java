@@ -13,6 +13,7 @@ public class SalaryCalculator {
         System.out.println();
         System.out.println("How many sales did the employee get this week? ");
         sales = input.nextInt();
+        input.close();
 
         if(sales > quota) {
             salary = salary + bonus;
