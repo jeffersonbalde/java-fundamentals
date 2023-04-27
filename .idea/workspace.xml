@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e24d0168-121c-4283-96a0-84a9b09c9108" name="Changes" comment="Implementing while loops program">
-      <change afterPath="$PROJECT_DIR$/src/main/java/loops/AddNumbers.java" afterDir="false" />
+    <list default="true" id="e24d0168-121c-4283-96a0-84a9b09c9108" name="Changes" comment="Implementing do while loops program">
+      <change afterPath="$PROJECT_DIR$/src/main/java/loops/Cashier.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -101,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682609571186</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Implementing do while loops program">
+      <created>1682610152670</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1682610152670</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -123,6 +130,7 @@
     <MESSAGE value="Implementing Switch Statements program" />
     <MESSAGE value="Implementing Switch Expressions program" />
     <MESSAGE value="Implementing while loops program" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implementing while loops program" />
+    <MESSAGE value="Implementing do while loops program" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implementing do while loops program" />
   </component>
 </project>
