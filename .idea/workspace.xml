@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e24d0168-121c-4283-96a0-84a9b09c9108" name="Changes" comment="Implementing for loops program">
-      <change afterPath="$PROJECT_DIR$/src/main/java/loops/NestesForLoops.java" afterDir="false" />
+    <list default="true" id="e24d0168-121c-4283-96a0-84a9b09c9108" name="Changes" comment="Implementing nestedforloops program">
+      <change afterPath="$PROJECT_DIR$/src/main/java/methods/GreetUser.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/loops/Cashier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loops/Cashier.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682610857867</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Implementing nestedforloops program">
+      <created>1682611865944</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1682611865944</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -148,6 +154,7 @@
     <MESSAGE value="Implementing do while loops program" />
     <MESSAGE value="Implementing loops program" />
     <MESSAGE value="Implementing for loops program" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implementing for loops program" />
+    <MESSAGE value="Implementing nestedforloops program" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implementing nestedforloops program" />
   </component>
 </project>
