@@ -19,6 +19,6 @@ public class Cashier {
         }
 
         scanner.close();
-        System.out.println("Your total is " + total);
+        System.out.println("Your total is" + total);
     }
 }
