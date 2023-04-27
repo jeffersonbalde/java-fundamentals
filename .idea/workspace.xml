@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e24d0168-121c-4283-96a0-84a9b09c9108" name="Changes" comment="Implementing methods program">
-      <change afterPath="$PROJECT_DIR$/src/main/java/methods/InstantCreditCheck.java" afterDir="false" />
+    <list default="true" id="e24d0168-121c-4283-96a0-84a9b09c9108" name="Changes" comment="Implementing globalscope program">
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_objects/Rectangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,13 +36,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="InstantCreditCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="methods.InstantCreditCheck" />
@@ -156,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682613312513</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Implementing globalscope program">
+      <created>1682623123260</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1682623123260</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -183,6 +190,7 @@
     <MESSAGE value="Implementing for loops program" />
     <MESSAGE value="Implementing nestedforloops program" />
     <MESSAGE value="Implementing methods program" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implementing methods program" />
+    <MESSAGE value="Implementing globalscope program" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implementing globalscope program" />
   </component>
 </project>
