@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e24d0168-121c-4283-96a0-84a9b09c9108" name="Changes" comment="adding decicion structures">
-      <change afterPath="$PROJECT_DIR$/src/main/java/decision_structure/QuotaGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/decision_structure/SalaryCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/decision_structure/SalaryCalculator.java" afterDir="false" />
+    <list default="true" id="e24d0168-121c-4283-96a0-84a9b09c9108" name="Changes" comment="Implementing quotagenerator program">
+      <change afterPath="$PROJECT_DIR$/src/main/java/decision_structure/TestResults.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +65,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682550110830</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Implementing quotagenerator program">
+      <created>1682557744832</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1682557744832</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -84,6 +89,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="adding basics" />
     <MESSAGE value="adding decicion structures" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding decicion structures" />
+    <MESSAGE value="Implementing quotagenerator program" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implementing quotagenerator program" />
   </component>
 </project>
