@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e24d0168-121c-4283-96a0-84a9b09c9108" name="Changes" comment="Implementing Home Area Calculator program">
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_objects/HomeAreaCalculatorRedo.java" afterDir="false" />
+    <list default="true" id="e24d0168-121c-4283-96a0-84a9b09c9108" name="Changes" comment="Sending and receiving object program">
+      <change afterPath="$PROJECT_DIR$/src/main/java/arrays/LotteryTicket.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +48,7 @@
       <recent name="java_objects" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HomeAreaCalculatorRedo">
+  <component name="RunManager">
     <configuration name="HomeAreaCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java_objects.HomeAreaCalculator" />
       <module name="java_course" />
@@ -210,7 +210,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682640476108</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Sending and receiving object program">
+      <created>1682649058902</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1682649058902</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -240,6 +247,7 @@
     <MESSAGE value="Implementing globalscope program" />
     <MESSAGE value="Implementing rectangle class program" />
     <MESSAGE value="Implementing Home Area Calculator program" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implementing Home Area Calculator program" />
+    <MESSAGE value="Sending and receiving object program" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sending and receiving object program" />
   </component>
 </project>
