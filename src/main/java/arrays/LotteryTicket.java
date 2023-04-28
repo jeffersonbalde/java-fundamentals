@@ -1,7 +1,6 @@
 package arrays;
 
-import org.example.Main;
-
+import java.util.Arrays;
 import java.util.Random;
 
 public class LotteryTicket {
@@ -11,18 +10,29 @@ public class LotteryTicket {
 
     public static void main(String[] args) {
         int[] ticket = generateNumbers();
-
-        for(int i = 0; i < ticket.length; i++) {
-            System.out.print(ticket[i] + " | ");
-        }
+        printTicket(ticket);
     }
+
+    private static void printTicket(int[] ticket) {
+        Arrays.sort(ticket);
+        for(int number : ticket) System.out.print(number + " | ");
+
+//        another way to loop through array
+//        for(int i = 0; i < ticket.length; i++) System.out.print(ticket[i] + " | ");
+}
 
     public static int[] generateNumbers() {
         int[] ticket = new int[LENGTH];
         Random random = new Random();
 
         for(int i = 0; i < LENGTH; i++) {
-             int randomNumber = random.nextInt(1, MAX_TICKET_NUMBER);
+             int randomNumber;
+
+             do {
+//                randomNumber =  random.nextInt(1, MAX_TICKET_NUMBER + 1);
+                 randomNumber =  random.nextInt(MAX_TICKET_NUMBER) + 1;
+             }while(search(ticket, randomNumber));
+
              ticket[i] = randomNumber;
         }
 
