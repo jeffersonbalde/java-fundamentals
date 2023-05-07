@@ -42,7 +42,7 @@ public class LotteryTicket {
     public static boolean search(int[] array, int numberToSearchFor) {
 //        for each loop
         for (int value : array){
-            if(value == numberToSearchFor) return false;
+            if(value == numberToSearchFor) return true;
         }
         return false;
     }
