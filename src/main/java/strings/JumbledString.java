@@ -2,7 +2,7 @@ package strings;
 
 public class JumbledString {
     public static void main(String[] args) {
-        addSpaces("YouWillBecomeSoftwareEngineerSoon");
+        addSpaces("YouWillBecomeSoftwareEngineerSoon!");
     }
 
     public static void addSpaces(String text) {
