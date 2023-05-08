@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e24d0168-121c-4283-96a0-84a9b09c9108" name="Changes" comment="lottery ticket java program">
-      <change afterPath="$PROJECT_DIR$/src/main/java/strings/TextProcessor.java" afterDir="false" />
+    <list default="true" id="e24d0168-121c-4283-96a0-84a9b09c9108" name="Changes" comment="text processor java program">
+      <change afterPath="$PROJECT_DIR$/src/main/java/strings/BackwardsString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -241,7 +241,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683476965270</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="text processor java program">
+      <created>1683499474310</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1683499474311</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -275,7 +282,8 @@
     <MESSAGE value="rest" />
     <MESSAGE value="implementing LotteryTicket program" />
     <MESSAGE value="lottery ticket java program" />
-    <option name="LAST_COMMIT_MESSAGE" value="lottery ticket java program" />
+    <MESSAGE value="text processor java program" />
+    <option name="LAST_COMMIT_MESSAGE" value="text processor java program" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
