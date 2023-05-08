@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e24d0168-121c-4283-96a0-84a9b09c9108" name="Changes" comment="backwards string java program">
-      <change afterPath="$PROJECT_DIR$/src/main/java/strings/JumbledString.java" afterDir="false" />
+    <list default="true" id="e24d0168-121c-4283-96a0-84a9b09c9108" name="Changes" comment="fizz buzz java program">
+      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/InheritanceTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/Square.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java_objects/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_objects/Rectangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,15 +40,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="java_objects" />
@@ -77,6 +81,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="InheritanceTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inheritance.InheritanceTester" />
+      <module name="java_course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="InstantCreditCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="methods.InstantCreditCheck" />
       <module name="java_course" />
@@ -92,6 +109,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InheritanceTester" />
         <item itemvalue="Application.HomeAreaCalculator" />
         <item itemvalue="Application.HomeAreaCalculatorRedo" />
         <item itemvalue="Application.InstantCreditCheck" />
@@ -254,7 +272,35 @@
       <option name="project" value="LOCAL" />
       <updated>1683506096551</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="jumbled string java program">
+      <created>1683508059528</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1683508059528</updated>
+    </task>
+    <task id="LOCAL-00023" summary="jumbled string java program">
+      <created>1683508152435</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1683508152435</updated>
+    </task>
+    <task id="LOCAL-00024" summary="banking application java program">
+      <created>1683547453601</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1683547453601</updated>
+    </task>
+    <task id="LOCAL-00025" summary="fizz buzz java program">
+      <created>1683547526993</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1683547526993</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -290,7 +336,10 @@
     <MESSAGE value="lottery ticket java program" />
     <MESSAGE value="text processor java program" />
     <MESSAGE value="backwards string java program" />
-    <option name="LAST_COMMIT_MESSAGE" value="backwards string java program" />
+    <MESSAGE value="jumbled string java program" />
+    <MESSAGE value="banking application java program" />
+    <MESSAGE value="fizz buzz java program" />
+    <option name="LAST_COMMIT_MESSAGE" value="fizz buzz java program" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

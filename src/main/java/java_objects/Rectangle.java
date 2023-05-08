@@ -5,9 +5,9 @@ import org.w3c.dom.css.Rect;
 import java.util.concurrent.RecursiveAction;
 
 public class Rectangle {
-    private double length;
-    private double width;
-    private int sides = 4;
+    protected double length;
+    protected double width;
+    protected int sides = 4;
 
     public Rectangle() {
         setLength(0);
@@ -17,6 +17,10 @@ public class Rectangle {
     public Rectangle(double length, double width) {
         setLength(length);
         setWidth(width);
+    }
+
+    public void print() {
+        System.out.println("I am aa rectangle");
     }
 
     public double calculateParameter() {
