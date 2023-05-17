@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e24d0168-121c-4283-96a0-84a9b09c9108" name="Changes" comment="fizz buzz java program">
-      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/InheritanceTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/set_hashset/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java_objects/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_objects/Rectangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,8 +105,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.InheritanceTester" />
         <item itemvalue="Application.HomeAreaCalculator" />
+        <item itemvalue="Application.InheritanceTester" />
         <item itemvalue="Application.HomeAreaCalculatorRedo" />
         <item itemvalue="Application.InstantCreditCheck" />
       </list>
