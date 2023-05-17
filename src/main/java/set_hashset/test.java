@@ -8,6 +8,7 @@ public class test {
 //        you can use TreeSet if you want to order things
 //        you can use LinkedHashSet if you want to maintain the order they add
 //        you can use for hashset for faster
+//        and to avoid duplicates item
 
         Set<String> names = new HashSet<>();
 
